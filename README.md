@@ -3,7 +3,7 @@ THis is the readme content and let me update and we are learning.....updated con
 this is test 
 this is our first change..
 this is our new chnage 
-this is my first upate
+this is my first upate now
 this is my final repo 
 ==================== 
 ddooiouo
